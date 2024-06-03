@@ -3,7 +3,7 @@ Project Title:
 
 Overview:
   •	Developed a Power BI dashboard to analyze Amazon Prime Video content.
-  •	Utilized a dataset with fields including show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, and description.**
+  •	Utilized a dataset with fields including show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, and description.
 
 Features:
   •	Country Analysis: Clickable map displays total shows and movies by country, released by year.
